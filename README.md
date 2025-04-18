@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 # 💻 Environment
 ![Windows](https://img.shields.io/badge/Windows%2010-00BBFF?style=flat-square&logo=Windows&logoColor=ffffff)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-ED9121?style=flat-square&logo=Ubuntu&logoColor=ffffff)
-![Arch](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white)
+![Arch]([https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat-square&logo=Pop!_OS&logoColor=white](https://img.shields.io/badge/Arch%20Linux-%230C8BDC?style=for-the-badge&logo=arch-linux&logoColor=white))
 
 # 📱 Devices
 ![Xiaomi Redmi Note 8](https://img.shields.io/badge/Xiaomi%20Redmi%20Note%208%20-ED9121?style=flat-square&logo=xiaomi&logoColor=ffffff)
