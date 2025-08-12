@@ -39,14 +39,14 @@ Here are some ideas to get you started:
   <img width=350 src="https://github-readme-stats-salesp07.vercel.app/api?username=umrmaulana&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=300 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=umrmaulana&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrdn28&label=Profile%20views&color=0e75b6&style=flat" alt="wrdn28" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=umrmaulana&label=Profile%20views&color=0e75b6&style=flat" alt="wrdn28" /> </p>
 </div>
 
 <h2 align="center">Languages & Tools</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bun,react,nextjs,tailwind,bootstrap,vscode,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,figma,linux,mysql,bash,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,react,nextjs,laravel,tailwind,bootstrap,vscode,git" /> <br>
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,flutter,figma,linux,mysql,bash,vim,docker," />
 </div>
 
 # 💻 Environment
